@@ -1,3 +1,10 @@
+/**
+ * Curso: Técnico em Informática para a Internet EaD
+ * Instituição: SENAC/RS
+ * ATIVIDADE 1 - UC13
+ * 
+ * Aluno: José Antônio Nunes de Morais
+*/
 import React from 'react';
 import {useState} from 'react'
 import { StyleSheet, Text, View, TouchableOpacity, Button } from 'react-native';
